@@ -7,3 +7,5 @@
 * Timer and interrupt fuctionality.</br>
 ## Project Details
 What i think 
+## RoadMap
+Possibly include real LEDs and use Modulations by possibly sperating the code files to better understand how coding with embedded systems work. 
