@@ -1,5 +1,7 @@
 # CS-350 System Architecture and Technology.
 **Overview**</br>This project demonstrates the skills that I gained from the CS-350 courses while working with microcontrols and starter code, to create a prototype for an automated air condition system.</br>
+**Hardware**</br>
+CC3220S-LAUNCHXL
 ## Features 
 * LED indicator for heat element. 
 * UART Serial line communication. 
@@ -24,3 +26,8 @@ I made this project maintainable by constructing dedicated functions and callbac
 
 ## RoadMap
 Possibly include real LEDs and use Modulations by possibly sperating the code files to better understand how coding with embedded systems work. 
+## Resources.
+https://www.ti.com/tool/CC3220SF-LAUNCHXL#software</br>
+https://www.ti.com/tool/CCSTUDIO</br>
+https://www.ti.com/tool/SIMPLELINK-CC32XX-SDK</br>
+
